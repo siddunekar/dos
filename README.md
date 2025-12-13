@@ -1,2 +1,4 @@
 # dos
-this is a project about the detectiong and metigationg the flood attakcs
+this is a project about the deteciong and metigationg the flood attakcs
+author siddu (dos)
+hi i am siddu
